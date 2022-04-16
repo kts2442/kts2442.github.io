@@ -28,7 +28,7 @@ tagline: IT Tech Life etc.. # it will display as the sub-title
 description: >- # used by seo meta and the atom feed
   TS, TS_Blog for reconding and memorizing
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "http://kts2442.github.io"
+url: "https://kts2442.github.io"
 
 github:
   username: kts2442 # change to your github username
